@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/minene-hm/dofaa.git/static/css/main.0415ce64.css",
+    "main.js": "/minene-hm/dofaa.git/static/js/main.ed2b3bdb.js",
+    "static/js/453.a1a07970.chunk.js": "/minene-hm/dofaa.git/static/js/453.a1a07970.chunk.js",
+    "static/media/f2.png": "/minene-hm/dofaa.git/static/media/f2.e287561e4bdbdac37793.png",
+    "static/media/security-infra.png": "/minene-hm/dofaa.git/static/media/security-infra.2f91e31f8de34149826b.png",
+    "static/media/f3.png": "/minene-hm/dofaa.git/static/media/f3.ae8a91c539f9b2ce0e33.png",
+    "static/media/heroabout.png": "/minene-hm/dofaa.git/static/media/heroabout.985b09f613c462cc6e16.png",
+    "static/media/f4.png": "/minene-hm/dofaa.git/static/media/f4.c43484fbb6fadd4a053f.png",
+    "static/media/ellipse.png": "/minene-hm/dofaa.git/static/media/ellipse.0621f1fd477af635de4c.png",
+    "static/media/phone.png": "/minene-hm/dofaa.git/static/media/phone.d5dc92408559da03956a.png",
+    "static/media/phone_dashboard.png": "/minene-hm/dofaa.git/static/media/phone_dashboard.ca94202f0735fbdb5200.png",
+    "static/media/security-shield.png": "/minene-hm/dofaa.git/static/media/security-shield.8c3598cd0ff18a4dbb9d.png",
+    "static/media/m3.png": "/minene-hm/dofaa.git/static/media/m3.fb30cc011244ac848890.png",
+    "static/media/brand-message.png": "/minene-hm/dofaa.git/static/media/brand-message.6ef98eb69dbefdc11a81.png",
+    "static/media/f1.png": "/minene-hm/dofaa.git/static/media/f1.1bebadbb2e80b6d8e898.png",
+    "static/media/m2.png": "/minene-hm/dofaa.git/static/media/m2.0c22e99c742605924cfc.png",
+    "static/media/m1.png": "/minene-hm/dofaa.git/static/media/m1.c9d8f8c25d03bdd8e766.png",
+    "static/media/m4.png": "/minene-hm/dofaa.git/static/media/m4.c3e089978e5f64da25fb.png",
+    "static/media/phonesec.jpg": "/minene-hm/dofaa.git/static/media/phonesec.10be9f3de158db747a6b.jpg",
+    "static/media/logo.png": "/minene-hm/dofaa.git/static/media/logo.de6a678406db81ae005f.png",
+    "index.html": "/minene-hm/dofaa.git/index.html",
+    "main.0415ce64.css.map": "/minene-hm/dofaa.git/static/css/main.0415ce64.css.map",
+    "main.ed2b3bdb.js.map": "/minene-hm/dofaa.git/static/js/main.ed2b3bdb.js.map",
+    "453.a1a07970.chunk.js.map": "/minene-hm/dofaa.git/static/js/453.a1a07970.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0415ce64.css",
+    "static/js/main.ed2b3bdb.js"
+  ]
+}
