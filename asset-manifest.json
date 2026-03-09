@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dofaa/static/css/main.0415ce64.css",
-    "main.js": "/dofaa/static/js/main.f4b42c30.js",
+    "main.js": "/dofaa/static/js/main.aaa18898.js",
     "static/js/453.a1a07970.chunk.js": "/dofaa/static/js/453.a1a07970.chunk.js",
     "static/media/f2.png": "/dofaa/static/media/f2.e287561e4bdbdac37793.png",
     "static/media/security-infra.png": "/dofaa/static/media/security-infra.2f91e31f8de34149826b.png",
@@ -22,11 +22,11 @@
     "static/media/logo.png": "/dofaa/static/media/logo.de6a678406db81ae005f.png",
     "index.html": "/dofaa/index.html",
     "main.0415ce64.css.map": "/dofaa/static/css/main.0415ce64.css.map",
-    "main.f4b42c30.js.map": "/dofaa/static/js/main.f4b42c30.js.map",
+    "main.aaa18898.js.map": "/dofaa/static/js/main.aaa18898.js.map",
     "453.a1a07970.chunk.js.map": "/dofaa/static/js/453.a1a07970.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0415ce64.css",
-    "static/js/main.f4b42c30.js"
+    "static/js/main.aaa18898.js"
   ]
 }
