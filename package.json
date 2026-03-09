@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "DISABLE_ESLINT_PLUGIN=true react-scripts build",
+    "build": "cross-env DISABLE_ESLINT_PLUGIN=true react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "cross-env": "^10.1.0",
     "gh-pages": "^6.3.0"
   }
 }
