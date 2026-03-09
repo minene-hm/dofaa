@@ -1,0 +1,148 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.marche-hero { 
+  background: linear-gradient(to top, #a3c0ff, #f0f8ff);
+  padding: 100px 10%;
+  text-align: center;
+}
+
+.marche-hero h1 {
+  font-size: clamp(42px, 4.5vw, 46px);
+  font-weight: 900;
+  margin-bottom: 20px;
+  color: #111827;
+}
+
+.marche-hero p {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+.marche-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 80px;
+  padding: 80px 10%;
+}
+
+.marche-row.reverse {
+  flex-direction: row-reverse;
+}
+
+.marche-text {
+  flex: 1;
+  text-align: left;
+}
+
+.marche-image-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.tagline {
+  color: #F4C430;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.9rem;
+}
+
+.marche-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #111827;
+  margin: 12px 0;
+}
+
+.marche-description {
+  font-size: 16px;
+  line-height: 1.7;
+  color: #666;
+}
+
+.marche-img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 16px;
+  border-bottom: 7px solid #7AAACE;
+  border-right: 7px solid #7AAACE;
+}
+
+.action-buttons {
+  display: flex;
+  gap: 15px;
+  margin-top: 20px;
+}
+
+.btn-action {
+  background-color: #FFD700;
+  color: #000099;
+  font-weight: 600;
+  padding: 12px 22px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-outline {
+  background: transparent;
+  border: 1px solid #000099;
+  color: #000099;
+  padding: 12px 22px;
+  border-radius: 8px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.check-list {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.check-list span {
+  font-size: 15px;
+  color: #111827;
+}
+
+.marche-row:hover .marche-img {
+  transform: translateY(-6px);
+  transition: transform 0.3s ease;
+}
+
+@media screen and (max-width: 1024px) {
+  .marche-row {
+    gap: 40px;
+    padding: 60px 6%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .marche-row {
+    flex-direction: column;
+    gap: 30px;
+    padding: 40px 5%;
+  }
+  .marche-row.reverse {
+    flex-direction: column;
+  }
+  .marche-text {
+    text-align: center;
+  }
+  .action-buttons {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .action-buttons .btn-action,
+  .action-buttons .btn-outline {
+    width: 100%;
+    text-align: center;
+  }
+}
