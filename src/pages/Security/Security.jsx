@@ -3,11 +3,11 @@ import Header from '../../components/Header/Header';
 import Footer from '../../components/Footer/Footer';
 import { useInView } from '../../hooks/useInView';
 import { FaBrain, FaFingerprint } from 'react-icons/fa6';
-import { FaLock, FaCheckCircle } from 'react-icons/fa';
-import shieldIllustration from '../../assets/images/security-shield.png';      
+import { FaLock, FaCheckCircle } from 'react-icons/fa';     
 import infraIllustration from '../../assets/images/security-infra.png';       
 import teamCollaborationImage from '../../assets/images/security-shield.png';
 import businessHandshakeImage from '../../assets/images/phonesec.jpg';
+
 
 import './Security.css';
 
