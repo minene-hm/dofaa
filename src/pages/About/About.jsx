@@ -181,7 +181,7 @@ export default function AboutPage() {
           <div className="brand-container">
             <div className="brand-left">
               <Reveal direction="left">
-                <h2 className="brand-title">Wassel, By Us, For You</h2>
+                <h2 className="brand-title">DOFAA, By Us, For You</h2>
                 <p className="brand-text">
                   Cutting-edge technology, designed and developed with a deep understanding of our country's realities.
                 </p>
@@ -190,7 +190,7 @@ export default function AboutPage() {
                     <circle cx="12" cy="12" r="10" />
                     <path d="M12 16v-4M12 8h.01" />
                   </svg>
-                  <span>Wassel: The link between your present and financial future.</span>
+                  <span>DOFAA: The link between your present and financial future.</span>
                 </div>
               </Reveal>
             </div>
